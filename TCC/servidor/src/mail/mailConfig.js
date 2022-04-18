@@ -13,7 +13,7 @@ const SmtpConfig = {
 }
 
 module.exports = {
-    CLIENT_ID: '396095430244-qtf721u6763f7m50fvb28cmcmh1r9uod.apps.googleusercontent.com',
-    CLIENT_SECRET: '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',
+    CLIENT_ID: 'Seu codigo do CLIENT_ID',
+    CLIENT_SECRET: 'Seu Codigo CLIENT_SECRET',
     SmtpConfig,
 };
